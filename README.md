@@ -3,13 +3,12 @@ Gesture controlled by combining the power of Arduino and Python: This technique 
 
 Software Prerequisites:
 •	Environment: Windows 10
-•	Install Python [Installer] ---Install it with Environment variables.
-•	Install Python Serial Library [PySerial Installer] PySerial is a Python API module which is used to read and write serial data to Arduino or any other Microcontroller.
-•	Install IDE PyCharm: [Installer]
-•	Arduino IDE
-•	Fritzing: To create arduino prototype for PC.
+•	Install Python [https://www.python.org/downloads/] ---Install it with Environment variables.
+•	Install Python Serial Library [https://learn.adafruit.com/arduino-lesson-17-email-sending-movement-detector/installing-python-and-pyserial] PySerial is a Python API module which is used to read and write serial data to Arduino or any other Microcontroller.
+•	Arduino IDE https://www.arduino.cc/en/Main/Software 
+•	Fritzing: To create arduino prototype for PC. http://fritzing.org/download/
 •	NewPing Library for Arduino
-•	VLC Player [Installer]’
+•	VLC Player [https://get.videolan.org/vlc/3.0.1/win32/vlc-3.0.1-win32.exe]’
 •	Download \ Create .mp4 video to test the project.
 •	Install pyautogui using cmd: pip install pyautogui
 
