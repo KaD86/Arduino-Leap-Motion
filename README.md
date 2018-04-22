@@ -12,4 +12,4 @@ Software Prerequisites:
 •	Download \ Create .mp4 video to test the project.
 •	Install pyautogui using cmd: pip install pyautogui
 
-
+********** Using/executing Python in Sublime Text2: https://www.youtube.com/watch?v=6ZpuwW-9T54 ***************
