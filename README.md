@@ -12,4 +12,4 @@ Software Prerequisites:
 •	Download \ Create .mp4 video to test the project.
 •	Install pyautogui using cmd: pip install pyautogui
 
-More Info: https://circuitdigest.com/microcontroller-projects/control-your-computer-with-hand-gestures
+
